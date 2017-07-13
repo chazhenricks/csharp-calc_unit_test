@@ -1,8 +1,8 @@
-Calculator Unit Tests
+# Calculator Unit Tests
 
 In this exercise, you're going to create a program that tests the functionality of a Calculator class.
 
-Setup
+## Setup
 
 ```
 mkdir -p ~/workspace/csharp/exercises/calculator/Calculator && cd $_
