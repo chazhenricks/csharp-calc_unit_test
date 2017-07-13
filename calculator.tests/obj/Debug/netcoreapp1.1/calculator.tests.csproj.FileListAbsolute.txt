@@ -1,0 +1,13 @@
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/bin/Debug/netcoreapp1.1/calculator.tests.deps.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/bin/Debug/netcoreapp1.1/calculator.tests.runtimeconfig.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/bin/Debug/netcoreapp1.1/calculator.tests.runtimeconfig.dev.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/obj/Debug/netcoreapp1.1/calculator.tests.AssemblyInfo.cs
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/bin/Debug/netcoreapp1.1/calculator.tests.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/bin/Debug/netcoreapp1.1/calculator.tests.pdb
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/bin/Debug/netcoreapp1.1/calculator.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/bin/Debug/netcoreapp1.1/calculator.pdb
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/obj/Debug/netcoreapp1.1/calculator.tests.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/calculator/calculator.tests/obj/Debug/netcoreapp1.1/calculator.tests.pdb
